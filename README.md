@@ -1,2 +1,2 @@
 # Company-Dashboard
-Company Dashboard comparing Salves vs Refunds/Returns/Gift Cards
+Company Dashboard comparing Sales vs Refunds/Returns/Gift Cards
