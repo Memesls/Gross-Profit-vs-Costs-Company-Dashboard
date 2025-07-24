@@ -1,8 +1,16 @@
-# Company-Dashboard
-Company Dashboard comparing Sales vs Refunds/Returns/Gift Cards
+## Project Background 
 
-This Dashboard compares the Sales of a Company to the Refunds/Returns/Gift Cards. 
-In other words, money in vs. money out. The data is from 3 different fictional stores and covers the years 2021 - 2024.
+Undisclosed company works in the advertisement and e-commerce industry. Working with many different e-commerce brands, they promote their products and sell them through storefronts, handling any refunds, gift cards, and shipping labels costs.
+
+This project aimed to create a Power BI dashboard to visualize the store data regarding Gross Profit, Costs, and e-commerce Brand Performance from the years 2021 - 2024.
+
+Insights and recommendations are provided on the following key areas:
+
+- **Sales vs. Refunds**: This key indicator compares the sales of the company vs the refunds in the same periods.
+- **QoQ and YoY growth**: This tracks the increase or decrease by quarter and year of the sales and refunds.
+- **Brand performance**: An assessment of the overall performance of the multiple brands. This includes sales, refunds, and return rate by brand.
+- **Shipping Costs**: An analysis of how much is spent on shipping returned items.
+- **Gift Card Costs**: An evaluation of the total value of the redeemed gift cards and the reasons for issuing them.
 
 The Dashboard aims to provide insight into the biggest culprits of money flowing out of the company and identify trends based on brands or dates.
 
