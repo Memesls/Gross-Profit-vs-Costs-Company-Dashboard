@@ -14,6 +14,38 @@ Insights and recommendations are provided on the following key areas:
 
 The Dashboard aims to provide insight into the biggest culprits of money flowing out of the company and identify trends based on brands or dates.
 
+## Data Structure
+
+Data was collected from 3 different Shopify stores and 3 different Loop accounts (returns portal for clients) in the form of CSV files. They were later processed through Power Query and loaded into Power BI for analysis and data visualization. Below is a screenshot of the data model for this dashboard.
+
+<br/>
+<p align="center">
+<img width="1232" height="720" alt="Screenshot 2025-07-23 194704" src="https://github.com/user-attachments/assets/d0187a50-fb6a-454d-a6a0-863d269fe1fa" />
+</p>
+<br/>
+
+Before the start of the analysis and creation of visuals, a variety of checks were conducted for data familiarization. Each CSV file was evaluated in terms of data structure, data types, and possible connections to other data.
+
+## Executive Summary
+
+The analysis showed that the company experienced a considerable increase in sales with the creation of the new store "CBSD" in 2022. Although this brought a decrease in sales for the other 2 stores, it made up for more than double the numbers the other 2 stores were bringing in in the years 2023 - 2024. At the same time, refunds saw a similar increase, going from a steady 5% to around the 7% - 8% range of the sales total.
+
+<br/>
+<p align="center">
+<img width="407" height="418" alt="Screenshot 2025-07-23 201703" src="https://github.com/user-attachments/assets/d46d8c9b-508d-4685-9eb6-82a38f45b666" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
 Project explanation:
 
 1. Filter the data needed from the Shopify stores
